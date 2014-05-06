@@ -1,0 +1,139 @@
+{
+  "productID": 123,
+  "guid": "2e94dbae-96a2-49b0-97d1-f00e7833fc2f",
+  "isActive": true,
+  "prices": {
+    "XS": {
+      "USD": "123.97",
+      "EUR": "150.21"
+    },
+    "S": {
+      "USD": "143.97",
+      "EUR": "160.21"
+    },
+    "M": {
+      "USD": "163.97",
+      "EUR": "180.21"
+    },
+    "L": {
+      "USD": "183.97",
+      "EUR": "200.21"
+    },
+    "XL": {
+      "USD": "193.97",
+      "EUR": "220.21"
+    },
+    "XXL": {
+      "USD": "103.97",
+      "EUR": "110.21"
+    }
+  },
+  "activeImageIndex": 0,
+  "images": [
+    {
+      "thumb": "http://placehold.it/63/ffcc33/0000&text=1",
+      "big": "http://placehold.it/480/ffcc33/0000&text=1"
+    },
+    {
+      "thumb": "http://placehold.it/63/88cc33/0000&text=2",
+      "big": "http://placehold.it/480/88cc33/0000&text=2"
+    },
+    {
+      "thumb": "http://placehold.it/63/990033/0000&text=3",
+      "big": "http://placehold.it/480/990033/0000&text=3"
+    },
+    {
+      "thumb": "http://placehold.it/63/009966/0000&text=4",
+      "big": "http://placehold.it/480/009966/0000&text=4"
+    },
+    {
+      "thumb": "http://placehold.it/63/006699/0000&text=5",
+      "big": "http://placehold.it/480/006699/0000&text=5"
+    }
+  ],
+  "quantity": 29,
+  "size": "L",
+  "availableSizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "designer": "Ethel Mcpherson",
+  "brand": "Flotonic",
+  "description": "Voluptate incididunt aliquip do consectetur cupidatat. Laboris id consequat amet dolore ad enim in fugiat nulla officia culpa ad esse veniam. Nisi ipsum cillum ea ut officia est ullamco qui consectetur.\r\n",
+  "date": "2002-03-13 23:02:18",
+  "tags": [
+    "ullamco",
+    "nulla",
+    "magna",
+    "dolor",
+    "exercitation",
+    "ex",
+    "anim"
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "author": "Hopper Ryan",
+      "date": "2003-10-13 13:59:42",
+      "comment": "Amet officia fugiat ad duis dolore esse aliqua est. Veniam fugiat ullamco do nisi incididunt eiusmod veniam minim consequat ea elit pariatur. Duis mollit id irure qui qui",
+      "ratings": {
+        "service": 2,
+        "value": 5,
+        "price": 3,
+        "quality": 3
+      }
+    },
+    {
+      "id": 1,
+      "author": "Shawna Woodward",
+      "date": "2013-07-09 17:54:10",
+      "comment": "Labore consectetur id non eu laborum labore exercitation consectetur sit consequat ut ad fugiat mollit. Minim do eiusmod ex ut minim mollit sint sit sunt. Reprehenderit aliqua duis esse eiusmod dolore deserunt cillum non cillum",
+      "ratings": {
+        "service": 4,
+        "value": 2,
+        "price": 5,
+        "quality": 2
+      }
+    },
+    {
+      "id": 2,
+      "author": "Cummings Sargent",
+      "date": "2007-12-28 04:28:13",
+      "comment": "Ex fugiat eiusmod sint commodo pariatur qui proident amet magna consequat fugiat cillum elit. Sit cillum ad cillum adipisicing aute dolore non ullamco nisi. Amet sunt aliqua aliquip do eu cillum amet sunt aute",
+      "ratings": {
+        "service": 2,
+        "value": 4,
+        "price": 5,
+        "quality": 5
+      }
+    },
+    {
+      "id": 3,
+      "author": "Kelsey Castillo",
+      "date": "2007-05-24 05:32:31",
+      "comment": "Enim nostrud in ipsum excepteur aute ullamco non anim laborum elit in reprehenderit adipisicing. Velit labore laborum cillum sit nisi fugiat eu cupidatat proident et nisi. Consectetur reprehenderit amet cupidatat ex veniam",
+      "ratings": {
+        "service": 5,
+        "value": 4,
+        "price": 3,
+        "quality": 2
+      }
+    },
+    {
+      "id": 4,
+      "author": "Arlene Fulton",
+      "date": "1989-09-19 00:29:10",
+      "comment": "Exercitation labore ex aliqua do aliqua esse deserunt duis officia. Ipsum do aliqua Lorem amet commodo ipsum. Occaecat labore consectetur culpa quis nisi laborum id",
+      "ratings": {
+        "service": 5,
+        "value": 2,
+        "price": 1,
+        "quality": 1
+      }
+    }
+  ]
+}
